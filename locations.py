@@ -1,3 +1,4 @@
+#Coutries and their continental location
 country2continent = {
     'Afghanistan': 'Asia (Southern)',
     'Algeria': 'Africa (Northern)',
