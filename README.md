@@ -1,4 +1,4 @@
-# Fobuseh-Pset4-20.440
+# Language Modeling of Viral Glycoproteins- Favour Obuseh and Siddharth Iyer
 Practice repository setup for BE 20.440 class. 
 This repository contains code to analyze viral glycoproteins with language modeling. The methods are based on those described in Hie et al. 2021.
 
@@ -14,4 +14,4 @@ The rhabdoviridae sequences are in the data folder. Figures and a trained model 
 ## Installation 
 Clone this repository and create a virtual environment with python 3.8 with the packages in requirements.txt
 
-Favour Obuseh and Siddharth Iyer
+
